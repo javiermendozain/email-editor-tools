@@ -1,6 +1,5 @@
 {
   "projects": {
-
-    "default": "email-editor-tool"
+    "stage": "email-editor-tool"
   }
 }
