@@ -14,7 +14,7 @@ if (process.env.NODE_ENV === "production") {
   console.clear();
   console.log("%c 👀¡Detente!", "color: red; font-size: 60px;");
   console.info(
-    `Esta función del navegador está pensada para desarrolladores. Si alguien te indicó que copiaras y pegaras algo aquí para habilitar una función de Claro Gaming o para 👮‍♂️'hackear'👨‍⚖️ la cuenta de alguien, se trata de un fraude. 💥`
+    `Esta función del navegador está pensada para desarrolladores. Si alguien te indicó que copiaras y pegaras algo aquí para habilitar una función o para 👮‍♂️'hackear'👨‍⚖️ la cuenta de alguien, se trata de un fraude. 💥`
   );
 }
 
