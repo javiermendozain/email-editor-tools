@@ -1,0 +1,20 @@
+.picture-profile {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.header-nickname {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.dropdown-menu-right {
+  right: 10px !important;
+}
+
+.navbar-nav a:hover {
+  text-decoration: none;
+}

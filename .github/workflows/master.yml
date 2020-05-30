@@ -1,0 +1,17 @@
+name: CI/CD on Stage
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    name: Build and deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: ./action-a
+        with:
+          MY_NAME: "JAVIER"
+        env:
+          SERVER: stage
+          TOKEN: ${{ secrets.TOKEN }}

@@ -1,0 +1,13 @@
+name: "Deploy"
+description: "Run build and deploy with Dockerfile"
+author: "javier.ing.teleco@gmail.com"
+
+inputs:
+  MY_NAME:
+    description: "Who to greet"
+    required: true
+    default: "Javier"
+
+runs:
+  using: "docker"
+  image: "../Dockerfile"

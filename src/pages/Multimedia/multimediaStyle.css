@@ -1,0 +1,7 @@
+.rendered-file-browser .action-bar input {
+  border-radius: 6px;
+}
+
+.rendered-file-browser .action-bar input:focus {
+  border-radius: 6px;
+}
