@@ -4,7 +4,6 @@ sh -c " 🔄Installing NPM"
 npm install
 
 sh -c "🔄🎯Building"
-REACT_APP_SERVER="$SERVER"
 npm run build:"$SERVER"
 
 sh -c "🔄Installing firebase"

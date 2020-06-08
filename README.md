@@ -1,22 +1,20 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/logo-shadow.png" alt="Logo" width="150" height="auto" />
+  <img src="https://raw.githubusercontent.com/javiermendozain/email-editor-tools/master/public/email.png" alt="Logo" width="150" height="auto" />
 </p>
-Welcome to email-editor-tools. This is version 0.0.1!
-
-www.google.com
+Welcome to email-editor-tools. This is version 0.0.2!
 
 <p align="center">
-		<a href="https://npmcharts.com/compare/@appnest/readme?minimal=true"><img alt="Downloads per month" src="https://img.shields.io/npm/dm/@appnest/readme.svg" height="20"/></a>
-<a href="https://www.npmjs.com/package/@appnest/readme"><img alt="NPM Version" src="https://img.shields.io/npm/v/@appnest/readme.svg" height="20"/></a>
-<a href="https://david-dm.org/andreasbm/readme"><img alt="Dependencies" src="https://img.shields.io/david/andreasbm/readme.svg" height="20"/></a>
-<a href="https://github.com/andreasbm/readme/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/andreasbm/readme.svg" height="20"/></a>
+		<a href="https://npmcharts.com/compare/@javiermendozain/email-editor-tools?minimal=true"><img alt="Downloads per month" src="https://img.shields.io/npm/dm/@javiermendozain/email-editor-tools.svg" height="20"/></a>
+<a href="https://www.npmjs.com/package/@javiermendozain/email-editor-tools"><img alt="NPM Version" src="https://img.shields.io/npm/v/@javiermendozain/email-editor-tools.svg" height="20"/></a>
+<a href="https://david-dm.org/javiermendozain/email-editor-tools"><img alt="Dependencies" src="https://img.shields.io/david/javiermendozain/email-editor-tools.svg" height="20"/></a>
+<a href="https://github.com/javiermendozain/email-editor-tools/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/javiermendozain/email-editor-tools.svg" height="20"/></a>
 <a href="https://github.com/badges/shields"><img alt="Custom badge" src="https://img.shields.io/badge/custom-badge-f39f37.svg" height="20"/></a>
 	</p>
 
 
 <p align="center">
   <b>Create, edit, and save your template for email </b></br>
-  <sub>Use this readme generator to easily generate beautiful readme's like this one! Simply extend your <code>package.json</code> and create a readme blueprint. On Github, the README file is like the landing page of your website because it is the first thing visitors see. You want to make a good first impression.<sub>
+  <sub>Use this tool to create template email<sub>
 </p>
 
 <br />
@@ -167,4 +165,4 @@ Licensed under [MIT](https://opensource.org/licenses/MIT).
 
 * email
 * editor
-* campañas
+* campaign

@@ -18,8 +18,6 @@ if (process.env.NODE_ENV === "production") {
   );
 }
 
-console.log("REACT_APP_SERVER", process.env.REACT_APP_SERVER?.toString());
-
 // DOM
 const rootElement = document.getElementById("root");
 

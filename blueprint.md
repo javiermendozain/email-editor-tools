@@ -1,11 +1,10 @@
 {{ template:logo }}
-Welcome to {{ pkg.name }}. This is version {{ pkg.version }}!
-
-{{ pageURL }}
 
 {{ template:badges }}
 
 {{ template:description }}
+
+Welcome to {{ pkg.name }}. This is version {{ pkg.version }}!
 
 <!-- Content Table -->
 
