@@ -1,0 +1,24 @@
+{
+  "logo": {
+    "src": "https://raw.githubusercontent.com/javiermendozain/email-editor-tools/master/public/email.png",
+    "width": "150"
+  },
+  "pageURL": "www.google.com",
+  "ids": {
+    "github": "javiermendozain/email-editor-tools",
+    "npm": "@javiermendozain/email-editor-tools"
+  },
+  "badges": [
+    {
+      "alt": "Custom badge",
+      "url": "https://github.com/badges/shields",
+      "img": "https://img.shields.io/badge/custom-badge-f39f37.svg"
+    }
+  ],
+  "text": "Use this tool to create template email",
+  "checkLinks": false,
+  "headingPrefix": {
+    "1": "💥 ",
+    "2": "⭑ "
+  }
+}
